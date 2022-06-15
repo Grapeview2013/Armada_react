@@ -1,0 +1,22 @@
+.OurClients{
+    width:100%;
+    height: 200px;
+   margin-top: 100px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-around;
+  }
+  .OurClients_name{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 16px;
+  }
+  .clients_line1{
+    width: 40%;
+    height: 1px;
+  }
+

@@ -1,0 +1,49 @@
+.OurContacts{
+    width: 100%;
+    height: 700px;
+  }
+  .OurContacts_main{
+    width:100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+  }
+.contacts_clock{
+    width: 20px;
+}
+.OurContacts_container {
+    display: flex;
+    height: 50%;
+    flex-direction: column;
+    justify-content: space-between;
+ }
+
+ .hours{
+    width: 60%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 26px;
+  color: rgba(164, 164, 164, 1);
+ }
+ .phone{
+    width: 40%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 26px;
+  color: rgba(164, 164, 164, 1)
+ }
+.address{
+    width: 30%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 26px;
+  color: rgba(164, 164, 164, 1)
+}

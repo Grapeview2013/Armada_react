@@ -1,0 +1,54 @@
+.Header_Main {
+    width: 100%;
+    height: 150px;
+  }
+  .Header1{
+      width: 100%;
+      height: 40%;
+      background-color:#65256F; 
+      display: flex;
+      flex-direction: row;
+      justify-content:space-around;
+      color: #FFFFFF;
+      align-items: center;
+  }
+  .Header_phone , .Header_motto{
+      color: yellow;
+  }
+  .Header2{
+  width: 100%;
+  height: 60%;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color:black;
+  align-items:center;
+    }
+#Header_logo{
+    width: 80%;
+    height:40%;
+   
+}
+.Header_menu{
+    width: 500px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Header_button{
+    width: 200px;
+    height: 50px;
+    color:#FFFFFF;
+    background-color: #65256F;
+    border: none;
+}
+.Header2 Button{
+    width: 200px;
+    height: 50px;
+    color:#FFFFFF;
+    background-color: #65256F;
+    border: none;
+}
+

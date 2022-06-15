@@ -1,0 +1,28 @@
+.AboutComp{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    }
+    .comp_line{
+        width: 555px;
+        height: 1px;
+      }
+    .AboutComp_name{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        font-size: 17px;
+    }
+    .AboutComptext{
+    width: 100%;
+    height: 190px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 27px;
+    font-size: 18px;
+    }

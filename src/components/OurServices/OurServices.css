@@ -1,0 +1,19 @@
+.Services{
+    width:100%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.Services_h3{
+      text-align: center;
+}
+.Services_cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+     text-align: center;
+     font-size: 19px;
+}
+
